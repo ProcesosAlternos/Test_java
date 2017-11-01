@@ -6,6 +6,6 @@
         <title>Calendario SMS</title>
     </head>
     <body>
-    <center><h1>Test</h1></center>
+    <center><h1>Tst Cal</h1></center>
     </body>
 </html>
